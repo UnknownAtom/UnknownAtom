@@ -1,5 +1,7 @@
 a 16-year-old student. 
   
-hobby is playing Touhou STG.
+My hobby is playing Touhou STG.
   
 Learning Python recently.
+
+It is hard to learn Python.

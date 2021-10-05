@@ -4,4 +4,4 @@ My hobby is playing Touhou STG.
   
 Learning Python recently.
 
-It is hard to learn Python.
+It is so hard.
